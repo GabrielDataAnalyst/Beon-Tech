@@ -81,8 +81,3 @@ Notes on Implementation in Sigma
 	•	Filters: Dashboard includes filters for date range and (if available) origin airport = EWR.
 	•	Visualizations: KPI tiles for headline metrics, bar charts for rankings, and time series for monthly trends.
 	•	Reproducibility: Any user can reproduce the analysis by loading the same CSV files into Sigma and applying the metric definitions above.
-
-  
-4. Month with the highest number of flights
-	•	Result: [Fill with month + year]
-	•	Definition: Group flights by month and identify the maximum flight count.
